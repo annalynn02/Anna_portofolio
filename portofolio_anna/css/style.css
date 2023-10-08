@@ -21,7 +21,7 @@ section{
     flex-direction: row;
 }
 
-/*Div gebruikt voor de indeling van de tekst*/
+/*Div gebruikt voor de indeling*/
 .indeling{
     flex-direction: column;
 }
@@ -77,7 +77,6 @@ h2{
     padding: 2.5%;
     margin-right: 2.2%;
     text-align: center;
-    border-radius: 11%;
 }
 
 h3{
@@ -88,10 +87,9 @@ h3{
 
 h4{
     font-size: 1.2em;
-    width: 13%;
+    width: 95%;
     background-color: #e5cea6;
     padding: 1.2%;
-    border-radius: 15%;
     text-align: center;
     color: #ffffff;
 }
@@ -107,6 +105,7 @@ p{
 
 img{
     width: 20%;
+    height: auto;
     margin: 0.64%;
     padding:1.15%;
     background-color: #a4aba0;
@@ -128,7 +127,6 @@ footer h2{
     padding: 0%;
     margin: 2%;
     text-align: center;
-    border-radius: 11%;
 }
 footer p{
     text-align: left;
